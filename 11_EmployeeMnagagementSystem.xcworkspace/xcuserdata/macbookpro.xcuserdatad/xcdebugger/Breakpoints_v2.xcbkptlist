@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "07CC2DB7-D5B7-4005-B6FB-8F930AF1D0A6"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6CABF49-76D5-4A26-A7E4-E32BA938E279"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee cell/EmployeeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "426"
+            endingLineNumber = "426"
+            landmarkName = "createCountryPicker()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6CABF49-76D5-4A26-A7E4-E32BA938E279 - 4734fc9e5c9efdb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1_EmployeeMnagagementSystem.EmployeeTableViewCell.createCountryPicker() -&gt; ()"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee%20cell/EmployeeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "442"
+                  endingLineNumber = "442"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  uuid = "C6CABF49-76D5-4A26-A7E4-E32BA938E279 - 4734fc9e5c9efdb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1_EmployeeMnagagementSystem.EmployeeTableViewCell.createCountryPicker() -&gt; ()"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee%20cell/EmployeeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "442"
+                  endingLineNumber = "442"
+                  offsetFromSymbolStart = "59">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDDF6BF2-C9DD-41B9-80D8-E3A58BBBE229"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "263"
+            endingLineNumber = "263"
+            landmarkName = "saveButtonTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90A2098D-3DA0-4EB4-B313-B710BC2321C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "245"
+            endingLineNumber = "245"
+            landmarkName = "saveButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90A2098D-3DA0-4EB4-B313-B710BC2321C0 - 26e8a8acb310eeb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in _1_EmployeeMnagagementSystem.EmployeeAddViewController.saveButtonTapped() -&gt; ()"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "2328">
+               </Location>
+               <Location
+                  uuid = "90A2098D-3DA0-4EB4-B313-B710BC2321C0 - 26e8a8acb310eca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in _1_EmployeeMnagagementSystem.EmployeeAddViewController.saveButtonTapped() -&gt; ()"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "250"
+                  endingLineNumber = "250"
+                  offsetFromSymbolStart = "2328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A438B1DC-356F-43A8-B633-C75B2F63FCB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ECBE842-1A88-4D66-86CC-919BB6319927"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8ECBE842-1A88-4D66-86CC-919BB6319927 - 866fdefa5006d0a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1_EmployeeMnagagementSystem.EmployeeAddViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "11098">
+               </Location>
+               <Location
+                  uuid = "8ECBE842-1A88-4D66-86CC-919BB6319927 - 866fdefa5006d08b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1_EmployeeMnagagementSystem.EmployeeAddViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "11098">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5405897-4579-4FF1-B6B6-A5B85C365EC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC2A82BF-4CF2-49DB-8711-0A73BE3DEEBB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC2A82BF-4CF2-49DB-8711-0A73BE3DEEBB - 866fdefa5006d3c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1_EmployeeMnagagementSystem.EmployeeAddViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "15427">
+               </Location>
+               <Location
+                  uuid = "EC2A82BF-4CF2-49DB-8711-0A73BE3DEEBB - 866fdefa5006d3c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1_EmployeeMnagagementSystem.EmployeeAddViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "15257">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ADECCD8-F33C-4B13-B8B4-8A6A7F38C5F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee cell/EmployeeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "cameraButtonClicked()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D449F8E-1422-4F0B-8772-8E254558068C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee cell/EmployeeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "cameraButtonClicked()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D449F8E-1422-4F0B-8772-8E254558068C - f83b5dc240e72ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1_EmployeeMnagagementSystem.EmployeeTableViewCell.cameraButtonClicked() -&gt; ()"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee%20cell/EmployeeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "1055">
+               </Location>
+               <Location
+                  uuid = "9D449F8E-1422-4F0B-8772-8E254558068C - bbb5234c4c77046a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (__C.UIAlertAction) -&gt; () in _1_EmployeeMnagagementSystem.EmployeeTableViewCell.cameraButtonClicked() -&gt; ()"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee%20cell/EmployeeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "145">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ADD5BBD-F184-42F0-863F-B7448ABA85A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee cell/EmployeeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "cameraButtonClicked()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7ADD5BBD-F184-42F0-863F-B7448ABA85A4 - f83b5dc240e709d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1_EmployeeMnagagementSystem.EmployeeTableViewCell.cameraButtonClicked() -&gt; ()"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee%20cell/EmployeeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "781">
+               </Location>
+               <Location
+                  uuid = "7ADD5BBD-F184-42F0-863F-B7448ABA85A4 - e7d82052e978da5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in _1_EmployeeMnagagementSystem.EmployeeTableViewCell.cameraButtonClicked() -&gt; ()"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee%20cell/EmployeeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "344988C2-BE65-461C-B7F5-B50BB81A2317"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee cell/EmployeeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "cameraButtonClicked()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "334F05C8-55FE-4DAB-B5D1-CDA165E5777D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee cell/EmployeeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "334F05C8-55FE-4DAB-B5D1-CDA165E5777D - cf2a5633fb939346"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1_EmployeeMnagagementSystem.EmployeeTableViewCell.imagePickerController(_: __C.UIImagePickerController, didFinishPickingMediaWithInfo: Swift.Dictionary&lt;__C.UIImagePickerControllerInfoKey, Any&gt;) -&gt; ()"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee%20cell/EmployeeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "334F05C8-55FE-4DAB-B5D1-CDA165E5777D - cf2a5633fb939367"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1_EmployeeMnagagementSystem.EmployeeTableViewCell.imagePickerController(_: __C.UIImagePickerController, didFinishPickingMediaWithInfo: Swift.Dictionary&lt;__C.UIImagePickerControllerInfoKey, Any&gt;) -&gt; ()"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/Add_Edit_ViewDetails_Employee%20cell/EmployeeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "461">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "642E29E7-5A87-4972-8EC6-F5B101F254A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/EmployeeList/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
+            landmarkName = "applyFilterButtonClicked()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C0489FE-420C-4A83-838A-F55C12E7B36D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C0489FE-420C-4A83-838A-F55C12E7B36D - 866fdefa5006c843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_1_EmployeeMnagagementSystem.EmployeeAddViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+               <Location
+                  uuid = "0C0489FE-420C-4A83-838A-F55C12E7B36D - cba1f9694eedf7c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.String) -&gt; () in _1_EmployeeMnagagementSystem.EmployeeAddViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "11_EmployeeMnagagementSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Developer/Swift/11_EmployeeMnagagementSystem/11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38742443-A9A3-4F85-8E52-914854B839DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "11_EmployeeMnagagementSystem/Add_Edit_ViewDetails_Employee/EmployeeAddViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
