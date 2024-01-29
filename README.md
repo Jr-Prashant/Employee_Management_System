@@ -43,6 +43,18 @@ The Employee Management System is a Swift-based iOS application designed to stre
 
 9. **UserDefaults Database:** Uses UserDefaults as a simple local database for storing employee information.
 
+## Dependencies
+
+**CountryPicker:** A Swift-based country picker library for iOS. Used for selecting countries.
+  - To install, add the following line to your project's 'Podfile':
+    ```bash
+    pod 'CountryPicker'
+    ```
+  - Then, run the following command:
+    ```bash
+    pod install
+    ```
+
 ## Installation
 Getting started with the Objective-C Business App is quick and easy:
 1. **Clone the Repository:** git clone https://github.com/Jr-Prashant/Employee_Management_System.git
